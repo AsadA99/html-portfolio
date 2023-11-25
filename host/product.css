@@ -1,0 +1,87 @@
+body,
+h1,
+h2,
+p,
+ul,
+li,
+form,
+input,
+textarea {
+  margin: 0;
+  padding: 0;
+}
+
+/* Global styles */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #dcd5e3;
+  color: #333;
+}
+
+header {
+  background-color: #fcf1fa;
+  padding: 20px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+img {
+  width: 50px; /* Set the width */
+  height: auto; /* Maintain aspect ratio */
+}
+#tt {
+  margin-top: 3%;
+  width: 550px; /* Set the width */
+  height: 350px; /* Maintain aspect ratio */
+  border: 7px solid rgb(249, 246, 248);
+}
+.kk {
+  margin-left: 50%;
+  margin-top: -370px;
+}
+nav ul {
+  list-style: none;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+}
+
+a:hover {
+  color: #000;
+}
+
+.hero-section {
+  text-align: center;
+  margin-top: 50px;
+}
+
+h2 {
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.pr {
+  margin-left: 20px;
+}
+
+li {
+  margin-left: 20px;
+}
+
+footer {
+  margin-top: 550px;
+}
+.ww {
+  margin-right: 900px;
+}
+p {
+  margin-left: 40px;
+}
+ul {
+  margin-left: 40px;
+}
